@@ -6,19 +6,4 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
-  <!-- 产品列表页 -->
-  <url>
-    <loc>https://vrxiv.com/products/</loc>
-    <lastmod>2025-12-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <!-- 关于我们页 -->
-  <url>
-    <loc>https://vrxiv.com/about/</loc>
-    <lastmod>2025-12-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <!-- 更多页面... -->
 </urlset>
